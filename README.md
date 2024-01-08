@@ -141,8 +141,8 @@ Remember to adjust the version numbers and dependencies according to your specif
 # Running the Application
 ## With Docker
 Build and run the Docker container:
-`docker build -t fast-api-oauth .`
-`docker run -p 8000:80 fast-api-oauth`
+`docker build -t fast-api-auth .`
+`docker run -p 8000:80 fast-api-auth`
 
 # Locally
 Run the application locally using Poetry:
